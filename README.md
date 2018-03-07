@@ -1,0 +1,2 @@
+# mystratum
+Proxy stratum 
